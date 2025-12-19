@@ -8,6 +8,13 @@
       "when": 1766139264092,
       "tag": "0000_cloudy_blob",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1766159267444,
+      "tag": "0001_loud_firebrand",
+      "breakpoints": true
     }
   ]
 }
